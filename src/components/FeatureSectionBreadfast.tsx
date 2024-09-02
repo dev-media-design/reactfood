@@ -32,7 +32,7 @@ const FeatureSectionBreadfast = () => {
         <div>
           <img
             className="w-full h-full object-cover"
-            src="/feature__2.webp"
+            src="feature__2.webp"
             alt="Featured Fruits and Vegetables"
           />
         </div>

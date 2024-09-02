@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="relative xl:w-2/3">
           <img
             className="w-full h-full object-cover rounded-lg"
-            src="/hero__1.webp"
+            src="hero__1.webp"
             alt="hero"
           />
 
@@ -35,7 +35,7 @@ const Hero = () => {
           <div className="relative">
             <img
               className="w-full h-full object-cover rounded-lg"
-              src="/hero__2.webp"
+              src="hero__2.webp"
               alt="hero img"
             />
 
@@ -59,7 +59,7 @@ const Hero = () => {
           <div className="relative">
             <img
               className="w-full h-full object-cover rounded-lg"
-              src="/hero__3.webp"
+              src="hero__3.webp"
               alt="hero img"
             />
 
